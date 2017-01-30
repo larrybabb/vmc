@@ -9,7 +9,7 @@ in biological sequences.
 # Current participants include:
 
 * Gil Alterovitz, Harvard Medical School/Boston Children’s Hospital, FHIR Genomics
-* Larry Babb, Sunquest, ClinGen
+* Larry Babb, GeneInsight/Sunquest, ClinGen, HL7/FHIR
 * Karen Eilbeck, University of Utah
 * Gaston Fiore, Boston Children’s Hospital, FHIR Genomics
 * Bob Freimuth, Mayo Clinic, ClinGen, HL7/FHIR
